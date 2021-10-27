@@ -1,0 +1,2 @@
+export const FETCH_ACTIVITY = 'ACTIVITY::FETCH';
+export const ADD_ACTIVITY = 'ACTIVITY::ADD';
